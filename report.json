@@ -1,0 +1,16 @@
+[
+  {
+    "ip": "203.0.113.5",
+    "attempts": 4,
+    "peak_in_window": 4,
+    "usernames": [
+      "admin",
+      "root",
+      "test"
+    ],
+    "first_seen": "2026-10-18 10:15:01",
+    "last_seen": "2026-10-18 10:15:10",
+    "attack_type": "Password Spraying",
+    "mitre_technique": "T1110.003"
+  }
+]
