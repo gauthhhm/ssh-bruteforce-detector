@@ -1,5 +1,17 @@
 [
   {
+    "ip": "198.51.100.23",
+    "attempts": 8,
+    "peak_in_window": 8,
+    "usernames": [
+      "root"
+    ],
+    "first_seen": "2026-10-18 10:30:02",
+    "last_seen": "2026-10-18 10:31:47",
+    "attack_type": "Brute Force",
+    "mitre_technique": "T1110.001"
+  },
+  {
     "ip": "203.0.113.5",
     "attempts": 4,
     "peak_in_window": 4,
