@@ -11,4 +11,5 @@ with open("samples/auth.log") as file:
             counts[ip] = counts.get(ip, 0) + 1
 
 for ip, total in counts.items():
-    print(ip, total)
+    if total >= 3:
+        print(ip, total)
